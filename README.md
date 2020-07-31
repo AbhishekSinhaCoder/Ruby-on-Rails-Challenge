@@ -11,4 +11,4 @@ Version requirements:
 - Ruby 2.5.1+
 - Rails 6+
 - Google Drive API V3
-Good luck and don’t hesitate to reach out with any questions :)
+
