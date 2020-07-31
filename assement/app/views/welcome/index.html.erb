@@ -1,0 +1,20 @@
+<h1 class="heading">File Details for Abhishek Sinha</h2>
+<p>
+<table style="width:100%">
+  <tr>
+    <th>File Name</th>
+    <th>Size(in Mb)</th>
+    <th>Last Modified</th>
+  </tr>
+  <tr>
+    <% @Session.each do |item| %>
+        <tr>
+      <td><%= item['title'] %></td>
+      <td><%= item['size'] %></td>
+      <td><%= item['Time'] %></td>
+      </tr>
+    <% end %>
+</table>
+
+
+
