@@ -10,6 +10,6 @@ class WelcomeController < ApplicationController
       item["Time"]=Time.parse(file.modified_time.to_s)
       final.append(item) 
     end
-    @Session=final
+    @Output=final
   end
 end

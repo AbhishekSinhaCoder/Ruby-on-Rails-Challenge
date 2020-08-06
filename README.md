@@ -11,4 +11,5 @@ Version requirements:
 - Ruby 2.5.1+
 - Rails 6+
 - Google Drive API V3
-# Note that you will have to provide your own config file(in JSON format).
+# First run yarn install then run rails server 
+
