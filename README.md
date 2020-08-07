@@ -1,4 +1,6 @@
-# Ruby-on-Rails-Challenge
+# Submission Result:Passed
+***
+## Ruby-on-Rails-Challenge
 Design a simple rails app that communicates with Google Drive API using the
 google-drive-ruby gem ( https://github.com/gimite/google-drive-ruby ).
 The app should communicate with the Drive through a service account (see documentation
